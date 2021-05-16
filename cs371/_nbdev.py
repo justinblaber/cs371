@@ -23,13 +23,21 @@ index = {"assert_allclose": "utils.ipynb",
          "DisjointSetsMergeByHeightAndPathCompression2": "module3.ipynb",
          "Node": "module6.ipynb",
          "LinkedList": "module6.ipynb",
-         "bs": "module6.ipynb"}
+         "bs": "module6.ipynb",
+         "sed_slow": "module10.ipynb",
+         "sed_fast": "module10.ipynb",
+         "seam_removal": "seamcarving.ipynb"}
 
 modules = ["utils.py",
            "module3.py",
            "hw1.py",
            "module5.py",
-           "hw2.py"]
+           "hw2.py",
+           "module6.py",
+           "module10.py",
+           "module11.py",
+           "seamcarving.py",
+           "hw3.py"]
 
 doc_url = "https://justinblaber.github.io/cs371/"
 
