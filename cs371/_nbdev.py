@@ -41,7 +41,8 @@ modules = ["utils.py",
            "module13.py",
            "module14.py",
            "module16.py",
-           "module17.py"]
+           "module17.py",
+           "hw4.py"]
 
 doc_url = "https://justinblaber.github.io/cs371/"
 
