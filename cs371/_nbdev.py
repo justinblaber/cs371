@@ -26,7 +26,13 @@ index = {"assert_allclose": "utils.ipynb",
          "bs": "module6.ipynb",
          "sed_slow": "module10.ipynb",
          "sed_fast": "module10.ipynb",
-         "seam_removal": "seamcarving.ipynb"}
+         "seam_removal": "seamcarving.ipynb",
+         "TreeNode": "module17.ipynb",
+         "BinaryTree": "module17.ipynb",
+         "height": "module17.ipynb",
+         "balance": "module17.ipynb",
+         "AVLTreeNode": "module17.ipynb",
+         "AVLBinaryTree": "module17.ipynb"}
 
 modules = ["utils.py",
            "module3.py",

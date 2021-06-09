@@ -7,6 +7,7 @@ import time
 import warnings
 import numpy as np
 import matplotlib.pyplot as plt
+import scipy.stats
 
 import librosa
 import librosa.display
