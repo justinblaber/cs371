@@ -32,7 +32,8 @@ index = {"assert_allclose": "utils.ipynb",
          "height": "module17.ipynb",
          "balance": "module17.ipynb",
          "AVLTreeNode": "module17.ipynb",
-         "AVLBinaryTree": "module17.ipynb"}
+         "AVLBinaryTree": "module17.ipynb",
+         "Heap3": "module19.ipynb"}
 
 modules = ["utils.py",
            "module3.py",
@@ -50,7 +51,8 @@ modules = ["utils.py",
            "module17.py",
            "hw4.py",
            "hw5.py",
-           "module19.py"]
+           "module19.py",
+           "module21.py"]
 
 doc_url = "https://justinblaber.github.io/cs371/"
 
